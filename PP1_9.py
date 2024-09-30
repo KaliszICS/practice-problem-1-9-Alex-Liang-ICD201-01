@@ -10,12 +10,13 @@ def q2():
 
   word1 = input("Input a word: ")
   print(word1.lower())
+  print(word1.upper())
 
 def q3(): 
   #Write Assignment code here
 
   word2 = input("Input a word that is at least 5 letters long: ")
-  print(word2.index(3:6))
+  print(word2[1:4])
 
 def q4(): 
   #Write Assignment code here
@@ -32,8 +33,8 @@ def q5():
 #Do not alter the following code
 #Comment out the following code when running your tests
 
-q1()
-q2()
-q3()
-q4()
-q5()
+# q1()
+# q2()
+# q3()
+# q4()
+# q5()
