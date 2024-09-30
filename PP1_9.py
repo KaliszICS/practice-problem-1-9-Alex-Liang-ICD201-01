@@ -1,4 +1,10 @@
 
+'''
+Lesson: String Manipulation
+Author: Alex Liang
+Date Issued: September 30th, 2024
+Last Modified: September 30th, 2024
+'''
 
 def q1(): 
   #Write Assignment code here
